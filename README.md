@@ -128,8 +128,5 @@ This analysis can be extended by adding more years of agricultural data, weather
 
 This project helped me understand how Exploratory Data Analysis can be used to study a real-world agricultural problem. By comparing seasons, crops, regions, resources, and outcomes, the analysis provides a better view of the factors associated with agricultural performance.
 
-## Author
 
-**[Your Name]**
 
-**[Your College Name]**
